@@ -1,9 +1,11 @@
+// Header files :
 #include <iostream>
-
+using namespace std;
+// Main drive :
 int main()
 {
     int input;
-    std::cin >> input;
-    std::cout << input << std::endl;
+    cin >> input;
+    cout << input << endl;
     return 0;
 }
